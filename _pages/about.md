@@ -1,9 +1,9 @@
 ---
-layout: about
-permalink: /
+layout: single
 title: "About Me"
+permalink: /
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
