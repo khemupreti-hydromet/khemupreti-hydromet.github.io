@@ -25,5 +25,5 @@ Alongside my academic work, I have gained practical experience in hydro-meteorol
 
 ### Technical Toolkit
 * **Languages & Platforms:** Python, R, and Google Earth Engine (GEE).
-* **Hydrological Modeling:** HEC-HMS, HEC-RAS, and Land Surface Models.
+* **Hydrological Modeling:** HEC-HMS, HEC-RAS.
 * **Datasets:** CMIP6, ERA5-Land, and satellite-based precipitation products.
