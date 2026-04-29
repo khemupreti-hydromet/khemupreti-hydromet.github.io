@@ -1,6 +1,6 @@
 ---
 title: "Kankai River Morphodynamics Analysis"
-excerpt: "Using Google Earth Engine and Python to visualize and analyze river shifting in Eastern Nepal (2020–2025). <br/><img src='/images/kankai_river_shift.gif'>"
+excerpt: "Using Google Earth Engine and Python to visualize and analyze river shifting in Eastern Nepal (2020–2025). <br/><img src='/images/Kankai_River_Morphology_2020_2025.gif'>"
 collection: portfolio
 ---
 
