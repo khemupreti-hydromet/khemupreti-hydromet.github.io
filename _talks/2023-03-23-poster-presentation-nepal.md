@@ -2,10 +2,10 @@
 title: "Analysis of Extreme Climate Indices in Nepal"
 collection: talks
 type: "Poster Presentation"
-permalink: /talks/2023-poster-presentation-nepal
-venue: "37th Anniversary of CDHM and World Meteorological Day-2023"
+permalink: /talks/2023-03-23-poster-presentation
+venue: "Central Department of Hydrology and Meteorology (CDHM)"
 date: 2023-03-23
 location: "Kathmandu, Nepal"
 ---
 
-Delivered a three-minute poster presentation highlighting key findings from my research on climate extremes. The presentation focused on the spatial distribution of ETCCDI indices across Nepal's diverse topography.
+I delivered a three-minute poster presentation during the 37th Anniversary of CDHM and World Meteorological Day-2023. The talk focused on the spatial distribution and trends of extreme climate indices across Nepal's diverse physiographic regions.
