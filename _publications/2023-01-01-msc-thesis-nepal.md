@@ -12,3 +12,7 @@ citation: 'Upreti, K. R. (2023). "Historical Trend and Future Projections of Ext
 ---
 
 My MSc dissertation focused on assessing the changing patterns of temperature and precipitation indices in Nepal. By bridging the gap between historical observations and future CMIP6 projections, the work highlights increasing climate vulnerability in the Himalayan region.
+
+### Available Documents
+* [**Download Full MSc Thesis (PDF)**](https://khemupreti-hydromet.github.io/files/Khem_Raj_Upreti_MSc_Thesis.pdf)
+* [**Download IOST Thesis Abstract (PDF)**](https://khemupreti-hydromet.github.io/files/Thesis%20Abstract%20Khem%20Raj%20Upreti.pdf)
