@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,56 +9,39 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+### Education
+* **M.Sc. in Hydrology and Meteorology** | Tribhuvan University, Nepal | 2022
+  * *Dissertation:* Historical Trend and Future Projections of Extreme Climate in Nepal.
+* **B.Sc. in Hydro-Meteorological Science** | Tri-Chandra Multiple Campus, Nepal | 2019
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+### Research & Professional Experience
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+**Hydro-meteorologist | Real Time Solutions Pvt. Ltd.**
+*Dec 2024 – Feb 2026*
+* Analyzed hydro-meteorological time-series for flood monitoring and watershed studies.
+* Conducted field surveys, including discharge measurements and rating-curve development.
+* Performed bias correction of NWP and hydrological model outputs.
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+**Program Officer (Hydro-meteorologist) | NEEDS Nepal**
+*May 2024 – Nov 2024*
+* Monitored global/national flood models (GLOFAS, GFS, ECMWF) for anticipatory action.
+* Disseminated early warnings and integrated disaster response into municipal policies.
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+**Research Assistant | Recham Consult Pvt. Ltd.**
+*May 2023 – April 2024*
+* Assisted in climate pattern analysis and field expeditions for data collection.
+
+### Technical Skills
+* **Programming:** Python (Scientific Stack), R, JavaScript (Google Earth Engine).
+* **Modeling:** HEC-HMS, HEC-RAS.
+* **Geospatial:** Remote Sensing, QGIS.
+
+### Grants & Awards
+* **TU Research Directorate Grant:** Funding awarded for Master's research on gridded climate data and extremes.
+
+### Professional Training
+* **Earth Observation for Sustainable Development:** International workshop (NRSCC, ICIMOD, CAS).
+* **Google Earth Engine:** Technical training at Central Department of Hydrology and Meteorology.
+
+---
+*Full CV with contact details and references available upon request for professional inquiries.*
