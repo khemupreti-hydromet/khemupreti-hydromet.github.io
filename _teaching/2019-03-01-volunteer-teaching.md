@@ -3,7 +3,7 @@ title: "Volunteer Teacher (Mathematics & Science)"
 collection: teaching
 type: "Volunteer Teaching"
 permalink: /teaching/2019-volunteer-teaching
-venue: "Shree Saraswati Secondary School"
+venue: "Shree Saraswati Secondary School, Phaktanglung,Taplejung"
 date: 2019-06-01
 location: "Helok, Taplejung, Nepal"
 ---
