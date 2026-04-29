@@ -13,5 +13,10 @@ var addressPoints = [
     "Conference Proceeding talk 3 on Relevant Topic in Your Field<br />Testing Institute of America 2014 Annual Conference; Los Angeles, CA, USA",
     34.0536909,
     -118.242766
+  ],
+  [
+    "Analysis of Extreme Climate Indices in Nepal<br />37th Anniversary of CDHM and World Meteorological Day-2023; Kathmandu, Nepal",
+    27.708317,
+    85.3205817
   ]
 ];
