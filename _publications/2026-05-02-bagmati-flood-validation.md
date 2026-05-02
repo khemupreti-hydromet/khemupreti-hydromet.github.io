@@ -1,11 +1,13 @@
 ---
 title: "Validating the July 2020 Bagmati Flood: Linking Rainfall to Inundation Using Satellite Data"
 collection: publications
+category: manuscripts
 permalink: /publication/2026-05-02-bagmati-flood-validation
+excerpt: 'A technical validation of the July 2020 Bagmati flood event using GPM rainfall data and Sentinel-1 SAR imagery to identify hydrological lag.'
 date: 2026-05-02
 venue: 'Technical Research Note'
 paperurl: 'https://khemupreti-hydromet.github.io/publication/2026-05-02-bagmati-flood-validation'
-citation: 'Upreti, K. R. (2026). &quot;Validating the July 2020 Bagmati Flood: Linking Rainfall to Inundation Using Satellite Data.&quot; <i>Technical Research Note</i>.'
+citation: 'Upreti, K. R. (2026). "Validating the July 2020 Bagmati Flood: Linking Rainfall to Inundation Using Satellite Data." <i>Technical Research Note</i>.'
 ---
 
 # Introduction
