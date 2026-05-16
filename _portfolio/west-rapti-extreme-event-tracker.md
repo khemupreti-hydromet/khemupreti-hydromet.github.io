@@ -122,7 +122,6 @@ Planned improvements include:
 - GEOGloWS streamflow forecasts
 - 5-day rainfall forecasts
 - Automated PDF report generation
-- Sentinel-1 flood inundation comparison
 - Multi-basin support across Nepal
 - Additional export formats (PDF, GeoJSON, PNG)
 
