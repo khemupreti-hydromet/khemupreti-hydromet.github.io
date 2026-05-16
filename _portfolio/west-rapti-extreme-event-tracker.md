@@ -6,7 +6,9 @@ collection: portfolio
 
 ## Live Application
 
-🔗 https://west-rapti-extreme-event-tracker-3pz8havgmg3k2mujenkbyn.streamlit.app/
+🔗 <a href="https://west-rapti-extreme-event-tracker-3pz8havgmg3k2mujenkbyn.streamlit.app/" target="_blank">
+   🔗 Launch West Rapti Extreme Event Tracker
+</a>
 ---
 
 ## Project Overview
