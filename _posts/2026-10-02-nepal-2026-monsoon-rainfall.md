@@ -136,7 +136,9 @@ Rainfall estimates were accumulated from **1 June to 30 September 2026** and com
 
 The maps use the Nepal boundary used in the analysis, and national statistics are calculated from the spatial rainfall field.
 
-IMERG is a **satellite estimate, not a direct rain-gauge measurement**. It is useful for describing the spatial pattern of rainfall, but the results should be interpreted alongside ground observations.
+IMERG is a **satellite estimate, not a direct rain-gauge measurement**. The 2026 values use the IMERG **[Early / Late / Final]** run, while the 2000–2025 climatology uses the **Final** run. Part of the departure from climatology may therefore reflect differences between runs, not only real rainfall variability. IMERG also tends to underestimate orographic rainfall in mountainous terrain.
+
+A fixed 1 June–30 September window was used, not the actual monsoon onset and withdrawal dates of each year.
 
 The values reported here represent the IMERG data available when the analysis was completed on **2 October 2026**. Satellite precipitation estimates can be revised as later processing becomes available, so these results should be treated as a **current-season satellite estimate rather than a permanent final observational record**.
 
