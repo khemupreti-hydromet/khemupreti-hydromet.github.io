@@ -86,7 +86,7 @@ The anomaly maps show how the cumulative departure from the 2000–2025 referenc
 
 The value of a spatial rainfall field is that it keeps this geographic variation visible. The country-wide number provides the summary; the maps show where that summary came from.
 
-## 5. Rainfall was spatially concentrated
+## 5. Rainfall was moderately uneven across the country
 
 Another way to describe the season is to ask how rainfall was distributed across the country's area.
 
