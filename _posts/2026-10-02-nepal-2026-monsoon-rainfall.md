@@ -134,7 +134,7 @@ This analysis uses **GPM IMERG V07**, a satellite-based rainfall dataset with pr
 
 Rainfall estimates were accumulated from **1 June to 30 September 2026** and compared with an **IMERG climatology for 2000–2025** over the same seasonal period.
 
-The maps use the updated Nepal boundary used in the analysis, and national statistics are calculated from the spatial rainfall field.
+The maps use the Nepal boundary used in the analysis, and national statistics are calculated from the spatial rainfall field.
 
 IMERG is a **satellite estimate, not a direct rain-gauge measurement**. It is useful for describing the spatial pattern of rainfall, but the results should be interpreted alongside ground observations.
 
