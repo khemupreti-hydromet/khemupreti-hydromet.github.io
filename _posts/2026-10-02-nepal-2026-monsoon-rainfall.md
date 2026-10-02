@@ -187,19 +187,6 @@ Google Earth Engine dataset: `NASA/GPM_L3/IMERG_V07`
 
 ---
 
-## Figure captions
-
-**Figure 1.** Cumulative GPM IMERG V07 precipitation across Nepal at the end of June, July, August, and September 2026. Analysis period: 1 June–30 September 2026.
-
-**Figure 2.** Cumulative 2026 IMERG precipitation compared with the 2000–2025 IMERG climatological accumulation for the same period.
-
-**Figure 3.** Monthly contributions to Nepal's cumulative IMERG rainfall during June–September 2026.
-
-**Figure 4.** Cumulative departure of 2026 GPM IMERG precipitation from the 2000–2025 IMERG climatological accumulation at monthly checkpoints.
-
-**Figure 5.** Spatial concentration of June–September 2026 rainfall. Grid cells are ranked from lower to higher rainfall, and the curve shows the share of total rainfall contributed by progressively wetter portions of the analysis area.
-
-**Figure 6.** Expansion of the cumulative rainfall footprint across Nepal during the 2026 monsoon. Lines show the share of the analysis area exceeding selected cumulative rainfall thresholds.
 
 ---
 
